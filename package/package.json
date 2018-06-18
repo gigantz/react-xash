@@ -1,0 +1,28 @@
+{
+  "name": "react-xash",
+  "version": "1.0.4",
+  "description": "React Utility for adding hash into your text to protect your content",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/gigantz/react-xash.git"
+  },
+  "keywords": [
+    "react",
+    "xash",
+    "block",
+    "text",
+    "copying",
+    "protect",
+    "content"
+  ],
+  "author": "Orkhan Jafarov",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/gigantz/react-xash/issues"
+  },
+  "homepage": "https://github.com/gigantz/react-xash#readme"
+}
