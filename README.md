@@ -9,7 +9,9 @@ You copy it `H7ezl7l3o5 wwcohrel4dq`
 
 ![Screenshot](http://ultraimg.com/images/2018/06/19/MEnE.png)
 
-Try out - https://gigantz.github.io/react-xash/
+Demo - https://gigantz.github.io/react-xash/
+
+Try out - https://codesandbox.io/s/j75ynj9q49
 
 Import it
 ```javascript
