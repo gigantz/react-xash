@@ -1,6 +1,6 @@
 {
   "name": "react-xash",
-  "version": "1.0.5",
+  "version": "1.0.7",
   "description": "React Utility for adding hash into your text to protect your content",
   "main": "index.js",
   "scripts": {

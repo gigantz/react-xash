@@ -11,7 +11,7 @@ type Inputs  = {
   userAgent: any,
 }
 
-class Xash {
+export class Xash {
   elementTypes: Array<string>;
   robots: string;
   repeat: number;

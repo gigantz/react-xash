@@ -4,6 +4,7 @@ import ReactDOM from 'react-dom';
 import Xash from './xash';
 const xash = new Xash();
 
+
 const style = {
   display: 'flex',
   justifyContent: 'center',
