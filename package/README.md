@@ -9,6 +9,8 @@ You copy it `H7ezl7l3o5 wwcohrel4dq`
 
 ![Screenshot](http://ultraimg.com/images/2018/06/19/MEnE.png)
 
+Try out - https://gigantz.github.io/react-xash/
+
 Import it
 ```javascript
 import Xash from 'react-xash';
@@ -25,9 +27,9 @@ return (
 
 Options
 ```javascript
-    const xash = new Xash({
-        elementTypes: ['a','td', ...] // elements to use in xashing
-        robots: '(googlebot|scraper| ....)' // return plain text if bot indexing it
-        userAgent: req.headers['user-agent'] // if you use server side rendering set it
-    });
+const xash = new Xash({
+    elementTypes: ['a','td', ...] // elements to use in xashing
+    robots: '(googlebot|scraper| ....)' // return plain text if bot indexing it
+    userAgent: req.headers['user-agent'] // if you use server side rendering set it
+});
 ```
